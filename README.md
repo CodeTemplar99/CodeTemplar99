@@ -15,4 +15,4 @@
 ### 📞  +234 8135 5363 04
 ### ✉️   udoagwac@gmail.com
 ### 🌐  www.linkedin.com/in/mitchchiadika
-### 📱  twitter.com/ChiadikaMitch
+### 📱  www.twitter.com/ChiadikaMitch
