@@ -5,7 +5,7 @@ Before my current position, I was a junior frontend intern with Codekago interac
 
 Here are a few takeaways from me 📣 :
 
-  * 🚧  Adventures: I'm currently learning and I am trying to raise my bar in Node.js, I'm also interested in game development and AR/VR so most times I could be caught working on a hobbyist project in this field, I believe the possiblities with this technologies can only be limit of he/she who yields the imagination. I'm also working on an online crypto exchange platform (name to be written here soon :wink:) to help Nigerians buy and sell crypto at this time that the government has decided to ban banks from processing crypto-related transactions.
+  * ⛵  Adventures: I'm currently learning and I am trying to raise my bar in Node.js, I'm also interested in game development and AR/VR so most times I could be caught working on a hobbyist project in this field, I believe the possiblities with this technologies can only be limit of he/she who yields the imagination. I'm also working on an online crypto exchange platform (name to be written here soon :wink:) to help Nigerians buy and sell crypto at this time that the government has decided to ban banks from processing crypto-related transactions.
 * ⭐ Achievements: I have worked a few projects but one my personal achivements is 🔗 www.nairacheck.com , an online fraud check directory built for Nigerians, that allows you to search and confirm if the entity or individual you are about to transact with has been reported for fraud. check it out today 👍 .
 * 🔌  Availablity: I'm open to remote software roles/collaboration on Django, Vue, React and general fullstack development.
 * ❗  I'm spontenous and passion-driven.
