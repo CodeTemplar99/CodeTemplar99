@@ -1,2 +1,4 @@
 # Howdy,  I'm Mitchell :wave:
-#### known online as Codetemplar99 (pronunced nine-nine), I'm a Software Developer and a fullstack web developer
+#### known online as Codetemplar99 (pronunced nine-nine), I'm an experienced software developer and a fullstack web developer who constantly seeks out innovative solutions to everyday problems. In my 3 years in this industry, I've honed my analytical thinking and collaboration skills, and I enjoy working with a team. My Web stack is: a truckload of Django and Vue, and react, and a handful of php. And I've had a thrilling opportunity to work on a few projects with these technologies.
+
+#### “Before my current position, I was a junior frontend intern with Codekago interactive. While working there, I committed to frontend development, which has been my specialty for a about 2 years. I understand that a major part of your straying into this area (my bio ofcourse :smile: ) focuses on some of these I've mentioned, which my previous experience has certainly prepared me for.
