@@ -9,7 +9,7 @@ Here are a few takeaways from me 📣 :
 * ⭐ Achievements: I have worked a few projects but one my personal achivements is 🔗 www.nairacheck.com , an online fraud check directory built for Nigerians, that allows you to search and confirm if the entity or individual you are about to transact with has been reported for fraud. check it out today 👍 .
 * 🔌  Availablity: I'm open to remote software roles/collaboration on Django, Vue, React and general fullstack development.
 * ❗  I'm spontenous and passion-driven.
-* ⚠️  There's no guarantee that I'll be writing these same stack in the next few months.
+* ⚠️  There's no guarantee that I'll be writing these same stack tomorrow.
 
 * Whether it's a new project, a job role or why your stack is better than mine (but know you won't win, after all what are talks for? 😄), I'm reachable and welcome to nice talks. try one of these channels:
   * #### 📞   +234 8135 5363 04
