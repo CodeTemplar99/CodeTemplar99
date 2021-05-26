@@ -13,6 +13,7 @@ Here are a few takeaways from me 📣 :
 
 * Whether it's a new project, a job role or why your stack is better than mine (but know you won't win, after all what are talks for? 😄), I'm reachable and welcome to nice talks. try one of these channels:
   * #### 📞   +234 8135 5363 04
-  * #### ✉️    udoagwac@gmail.com
+  * #### ✉️   udoagwac@gmail.com
   * #### 🌐   www.linkedin.com/in/mitchchiadika
   * #### 📱   www.twitter.com/ChiadikaMitch
+  * #### 🔗   https://www.cutt.ly/vntjRnh (CV/Resume link)
