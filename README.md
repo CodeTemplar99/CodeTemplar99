@@ -1,19 +1,25 @@
-# 👋 Howdy,  I'm Mitchell 🎴
-AKA CodeTemplar or CodeTemplar99 ***(pronunced code templar nine-nine)***, I'm an experienced software developer and a fullstack web developer who constantly seeks out innovative solutions to everyday problems. In my few years in this industry, I've honed my analytical thinking and collaboration skills, and I enjoy working with a team. My Web stack is: a truckload of Django, react, and a handful of php. And I've had thrilling opportunities to work on a few projects with these technologies.
+## Hello Visitor 👋
 
-Before my current position, I was a junior frontend intern at Codekago interactive. While working there, I committed to frontend development, which has been my specialty for a about 2 years. I understand that a major part of your straying into this area (my bio ofcourse :smile: ) focuses on some of these I've mentioned, which my previous experience has certainly prepared me for.
+# I'm Mitchell 🎴
 
-Here are a few takeaways from me 📣 :
+fullstack Developer 🖥️\
+Jazz lover 🎸\
+Ballon D'Or winner in PES 🎮\
 
-  * ⛵  Adventures: I'm currently learning and I am trying to raise my bar in Node.js, I'm also interested in game development and AR/VR so most times I could be caught working on a hobbyist project in this field, I strongly believe the possiblities with this technologies can only be limited by our imagination. I'm also working on an online crypto exchange platform (name to be written here soon :wink:) to help Nigerians buy and sell crypto at this time that the government has decided to ban banks from processing crypto-related transactions.
-* ⭐  Achievements: I have worked a few projects but one my personal achivements is 🔗 www.nairacheck.com , an online fraud check directory built for Nigerians, that allows you to search and confirm if the entity or individual you are about to transact with has been reported for fraud. check it out today 👍 .
-* 🔌   Availablity: I'm open to remote software roles/collaboration on Django, Vue, React and general fullstack development.
-* ❗   I'm spontenous and passion-driven.
-* ⚠️    There's no guarantee that I'll be writing these same stack tomorrow.
+*  🔭 I’m working on ...a few projects using HTML, CSS, JS, Python, PHP
+*  🌱 I’m currently learning flutter and Node.js
+*  💬 Ask me about  Python, Javascript, PHP, CSS, HTML
+*  📫 How to reach me  udoagwac@gmail.com
+*  📄 Know about my work & experiences [my Resume](https://docs.google.com/document/d/1nvkCjo8hFv_o3N7SxoM2S1_6tysmHPrI62MlScCOTN0/edit?usp=sharing)
 
-* Whether it's a new project, a job role or why your stack is better than mine (but know you won't win, after all what are talks for? 😄), I'm reachable and welcome to nice talks. try one of these channels:
-  * #### 📞   +234 8135 5363 04
-  * #### ✉️   udoagwac@gmail.com
-  * #### 🌐   www.linkedin.com/in/mitchchiadika
-  * #### 📱   www.twitter.com/ChiadikaMitch
-  * #### 🔗   https://www.cutt.ly/vntjRnh (CV/Resume link)
+## My featured projects 🚀
+[Nairacheck](https://www.nairacheck.com) 🔍\
+[Weathermate-io](https://github.com/CodeTemplar99/weathermate) ⛈️\
+[Churchmanagement](https://github.com/CodeTemplar99/DBM) 📝\
+[Recipot](https://github.com/CodeTemplar99/Recipot) 🍽️
+
+
+## According to Github
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codetemplar99&theme=tokyonight)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=codetemplar99)](https://github.com/anuraghazra/github-readme-stats)
