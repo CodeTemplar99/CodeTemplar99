@@ -20,6 +20,4 @@ Ballon D'Or winner in PES 🎮\
 
 
 ## According to Github
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codetemplar99&theme=tokyonight)
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=codetemplar99)](https://github.com/anuraghazra/github-readme-stats)
