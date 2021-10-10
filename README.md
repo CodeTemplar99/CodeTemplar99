@@ -14,7 +14,7 @@ Ballon D'Or winner in PES 🎮\
 *  📄 Know about my work & experiences [my Resume](https://docs.google.com/document/d/1nvkCjo8hFv_o3N7SxoM2S1_6tysmHPrI62MlScCOTN0/edit?usp=sharing)
 
 ## My featured projects 🚀
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/CodeTemplar99/weathermate)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeTemplar99&repo=weathermate)](https://github.com/CodeTemplar99/weathermate)
 
 [Nairacheck](https://www.nairacheck.com) 🔍\
 [Weathermate-io](https://github.com/CodeTemplar99/weathermate) ⛈️\
