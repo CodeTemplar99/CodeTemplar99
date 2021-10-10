@@ -14,19 +14,17 @@ Ballon D'Or winner in PES 🎮\
 *  📄 Know about my work & experiences [my Resume](https://docs.google.com/document/d/1nvkCjo8hFv_o3N7SxoM2S1_6tysmHPrI62MlScCOTN0/edit?usp=sharing)
 
 ## My featured projects 🚀
+[Weathermate-io]⛈️\
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeTemplar99&repo=weathermate)
 
+[Churchmanagement] 📝\
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeTemplar99&repo=DBM)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeTemplar99&repo=Recipot)
-
+[Nairacheck]🔍\
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeTemplar99&repo=weathermate)
 
-[Nairacheck](https://www.nairacheck.com) 🔍\
-[Weathermate-io](https://github.com/CodeTemplar99/weathermate) ⛈️\
-[Churchmanagement](https://github.com/CodeTemplar99/DBM) 📝\
-[Recipot](https://github.com/CodeTemplar99/Recipot) 🍽️
-
+[Recipot] 🍽️
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeTemplar99&repo=Recipot)
 
 ## According to Github
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeTemplar99&theme=calm&show_icons=true&count_private=true)
