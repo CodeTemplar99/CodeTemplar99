@@ -15,13 +15,13 @@ Ballon D'Or winner in PES 🎮\
 
 ## My featured projects 🚀
 
-Taskman 🧩 
+Taskman 🧩\
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeTemplar99&repo=taskmanager)
 
-Vue-blog 💻
+Vue-blog 💻\
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeTemplar99&repo=vue-blog)
 
-socialMediaAPI-lite 💬
+socialMediaAPI-lite 💬\
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeTemplar99&repo=socialMediaAPI-lite)
 
 Recipot 🍽️\
