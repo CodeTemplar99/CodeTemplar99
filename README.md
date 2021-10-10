@@ -1,8 +1,9 @@
 ## Hello Visitor 👋
 
-# I'm Mitchell 🎴
+# I'm Mitchell Chiadika 🎴
 
 fullstack Developer 🖥️\
+open to Laravel or Vue Opportunities ⌨️\
 Jazz lover 🎸\
 Ballon D'Or winner in PES 🎮\
 
