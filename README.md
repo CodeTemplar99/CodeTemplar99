@@ -20,5 +20,5 @@ Ballon D'Or winner in PES 🎮\
 
 
 ## According to Github
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeTemplar99&theme=tokoyonight&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeTemplar99&theme=onedark&show_icons=true&theme=radical)
 
