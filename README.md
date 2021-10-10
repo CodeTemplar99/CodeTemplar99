@@ -26,8 +26,8 @@ socialMediaAPI-lite 💬\
 
 Recipot 🍽️\
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeTemplar99&repo=Recipot)
-[Weathermate-io ⛈️\
 
+[Weathermate-io ⛈️\
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeTemplar99&repo=weathermate)
 
 Churchmanagement 📝\
