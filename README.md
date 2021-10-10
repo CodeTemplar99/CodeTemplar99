@@ -14,16 +14,16 @@ Ballon D'Or winner in PES 🎮\
 *  📄 Know about my work & experiences [my Resume](https://docs.google.com/document/d/1nvkCjo8hFv_o3N7SxoM2S1_6tysmHPrI62MlScCOTN0/edit?usp=sharing)
 
 ## My featured projects 🚀
-![Weathermate-io]⛈️\
+[Weathermate-io ⛈️\
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeTemplar99&repo=weathermate)
 
-[Churchmanagement] 📝\
+Churchmanagement 📝\
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeTemplar99&repo=DBM)
 
-[Nairacheck] 🔍\
+Nairacheck 🔍\
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeTemplar99&repo=weathermate)
 
-[Recipot] 🍽️\
+Recipot 🍽️\
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeTemplar99&repo=Recipot)
 
 ## According to Github
