@@ -16,7 +16,7 @@ Ballon D'Or winner in PES 🎮\
 ## My featured projects 🚀
 
 Taskman 🧩\
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeTemplar99&repo=taskmanager)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeTemplar99&repo=laravel-taskmanager)
 
 Vue-blog 💻\
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeTemplar99&repo=vue-blog)
