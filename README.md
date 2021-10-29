@@ -2,7 +2,7 @@
 
 # I'm Mitchell Chiadika 🎴
 
-A fullstack Developer 🖥️ , Open to Laravel or Vue Opportunities ⌨️  and Ballon D'Or winner in PES 🎮\
+A fullstack Developer 🖥️ , Open to Laravel or Vue Opportunities ⌨️
 
 *  🔭 I’m working on ...a few projects using HTML, CSS, Vue, Laravel
 *  🌱 I’m currently learning flutter
