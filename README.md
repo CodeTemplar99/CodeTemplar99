@@ -1,4 +1,4 @@
-## Hello 👋
+## Ciao 👋
 
 # I'm Mitchell Chiadika 🎴
 
