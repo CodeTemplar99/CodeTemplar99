@@ -1,7 +1,7 @@
 ## Ciao 👋
 
 # I'm Mitchell 🎴
-*  💬 Ask me about Javascript, flutter and Dart
+*  💬 Ask me about flutter and Dart
 *  📫 How to reach me  udoagwac@gmail.com
 *  📄 Know about my work & experiences [my Resume](https://docs.google.com/document/d/1nvkCjo8hFv_o3N7SxoM2S1_6tysmHPrI62MlScCOTN0/edit?usp=sharing)
 
