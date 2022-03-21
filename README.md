@@ -2,7 +2,7 @@
 
 # I'm Mitchell 🎴
 *  💬 Ask me about flutter and Dart
-*  📄 [See my Resume](https://docs.google.com/document/d/1nvkCjo8hFv_o3N7SxoM2S1_6tysmHPrI62MlScCOTN0/edit?usp=sharing)
+*  📄 See my [Resume](https://docs.google.com/document/d/1CNC6jOaggFWpy3lJKV4wpgSZAw8-UsPYZht2iS09K4M/edit?usp=sharing)
 *  📫 Reach me on udoagwac@gmail.com
 
 ## According to Github
