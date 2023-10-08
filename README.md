@@ -1,9 +1,8 @@
 ## Ciao 👋
 
-# I'm Mitchell 🎴
+# Welcome to my Github Profile 🎴
 *  💬 Ask me about flutter and Dart
-*  📄 See my [Resume](https://docs.google.com/document/d/1CNC6jOaggFWpy3lJKV4wpgSZAw8-UsPYZht2iS09K4M/edit?usp=sharing)
-*  📫 Reach me on udoagwac@gmail.com
+*  📫 Reach me on Gmail (provided in my resume)
 
 ## According to Github
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeTemplar99&theme=calm&show_icons=true&count_private=true)
