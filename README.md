@@ -1,7 +1,6 @@
 # Ciao 👋 I'm Mitchell
 ## Senior Software Engineer | Mobile Developer | Web3 & Cybersecurity Enthusiast
-## Welcome to my GitHub profile! Here, you’ll find a mix of Flutter magic, Web3, and cutting-edge mobile development.
-## I thrive on solving problems, learning new technologies, and collaborating with others to create something amazing.
+### Welcome to my GitHub profile! Here, you’ll find a mix of Flutter magic, Web3, and cutting-edge mobile development. I thrive on solving problems, learning new technologies, and collaborating with others to create something amazing.
 ## What I do
 * 💻 Flutter & Dart Enthusiast: I build stunning, high-performance mobile apps that run smoothly on both iOS and Android.
 
